@@ -1,6 +1,6 @@
 include "monty.h"
 /**
-  *f_nop- couner function
+  *f_nop- counter function
   *@head: head
   *@counter: counter
   *Return: void

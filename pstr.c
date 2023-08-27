@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_pstr - function to print string at the top of the stack
+ * f_pstr - function to print str at top of stack
  * @head: head
  * @counter: number
  * Return: results

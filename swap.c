@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_swap - function to swap elements of the stack.
+ * f_swap - function to swap elements of stack.
  * @head: head
  * @counter: counter
  * Return: results

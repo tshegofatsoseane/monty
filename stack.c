@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_stack - function to print
+ * f_stack - function to print something
  * @head: head
  * @counter: number
  * Return: results

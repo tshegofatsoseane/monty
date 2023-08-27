@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_div - function to divide elements
+ * f_div - function to divide elements of the stack
  * @head: head
  * @counter: counter
  * Return: results

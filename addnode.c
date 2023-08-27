@@ -1,6 +1,6 @@
 nclude "monty.h"
 /**
- * addnode - function to add node 
+ * addnode - function to add node to stack
  * @head: head
  * @n: value
  * Return: results
