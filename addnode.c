@@ -1,4 +1,4 @@
-nclude "monty.h"
+include "monty.h"
 /**
  * addnode - function to add node to stack
  * @head: head

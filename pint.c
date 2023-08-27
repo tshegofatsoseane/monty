@@ -1,4 +1,4 @@
-nclude "monty.h"
+include "monty.h"
 /**
  * f_pint - function to print the head
  * @head: head
