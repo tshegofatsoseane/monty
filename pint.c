@@ -1,0 +1,19 @@
+nclude "monty.h"
+/**
+ * f_pint - function to print the head
+ * @head: head
+ * @counter: counter
+ * Return: results
+*/
+void f_pint(stack_t **head, unsigned int counter)
+{
+  if (*head == NULL)
+  {
+    fprintf(stderr, "L%u: Error, the stack is empty\n", counter);
+    fclose(bus.file);
+    free(bus.content);
+    free_stack(*head);
+    exit(EXIT_FAILURE);
+  }
+  printf("%d\n", (*head)->n);
+}
